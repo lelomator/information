@@ -1,4 +1,4 @@
-## Allgemeine Geschäftsbedingungen (AGB) für den Discord-Server Version 29.11.2025
+## Allgemeine Geschäftsbedingungen (AGB) für den Discord-Server "Frobenius von Nebenan" Version 22.01.2026
 
 ## 1. Geltungsbereich
 
