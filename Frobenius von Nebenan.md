@@ -1,4 +1,4 @@
-## Allgemeine Geschäftsbedingungen (AGB) für den Discord-Server "Frobenius von Nebenan" Version 22.01.2026
+## Allgemeine Geschäftsbedingungen (AGB) für den Discord-Server "Frobenius von Nebenan" Version 16.04.2026
 
 ## 1. Geltungsbereich
 
@@ -29,13 +29,12 @@ Die Sprachkanäle, insbesondere Kanäle wie „Minecraft“, „Gaming 1“, „
 
 ## 5. @everyone Erwähnungen
 
-- Das Verwenden von @everyone Erwähnungen ist zwar allen Mitgliedern gestattet, aber in der Regel unerwünscht.
+- Die Verwendung von @everyone-Erwähnungen ist zwar allen Mitgliedern gestattet, aber in der Regel unerwünscht.
 - Missbräuchliche Nutzung oder Umgehungsversuche können zu Sanktionen führen.
 
 ## 6. Automatisierte Nachrichtenscans
 
-Warnung: Absatz 6 der AGB ist zum aktuellen Zeitpunkt außer Kraft gesetzt. Wir behalten uns dennoch vor, ihn jederzeit
-zu reaktivieren.
+Warnung: Absatz 6 der AGB ist zum aktuellen Zeitpunkt außer Kraft gesetzt. Wir behalten uns dennoch vor, ihn jederzeit zu reaktivieren.
 
 - Alle Nachrichten auf dem Server können automatisch von einem KI-basierten System (OpenAI / GPT-OSS-20B) gescannt werden.
 - Ziel ist es, Spam, Beleidigungen, Hassrede oder anderweitig unangemessene Inhalte zu erkennen.
@@ -45,13 +44,20 @@ zu reaktivieren.
 
 ## 7. Einsatz von Bots
 
-Momentan gibt es keine aktiven Bots auf diesem Discord-Server, wir behalten uns dennoch vor, jederzeit solche hinzuzufügen.
+Momentan gibt es einen aktiven Bot auf diesem Discord-Server. Wir behalten uns zudem vor, jederzeit weitere hinzuzufügen.
+
+### 7.1 Frobenius Gymnasium Updates (BOT)
+Dieser Bot dient der automatisierten Veröffentlichung von Updates zum Vertretungsplan der Klasse 9b. Der Zugriff auf den entsprechenden Kanal erfolgt über die Rolle "@Vertretungsplan Updates", welche auf Anfrage durch die Moderatoren vergeben wird.
+
+Darüber hinaus stellt der Bot den Befehl "/vertretungsplan" zur Verfügung, mit dem der vollständige Vertretungsplan abgerufen werden kann.
+
+Es werden keine personenbezogenen Daten durch diesen Bot erhoben oder gespeichert.
 
 ## 8. Bilderkanal #bilder
 
 Ein spezieller Kanal für Bilder wurde eingerichtet: #bilder. Hier können Nutzer interessante Bilder jeglicher Art teilen.
 
-- Alle Bilder in diesem Kanal können automatisch unter der Creative Commons Lizenz CC BY-NC-ND genutzt werden. Das bedeutet, die Bilder dürfen mit einer Namensnennung des Erstellers frei verwendet und kopiert und weitergegeben, jedoch nicht verändert werden. Die kommerzielle Nutzung ist ohne Genehmigung untersagt.
+- Alle Bilder in diesem Kanal können automatisch unter der Creative-Commons-Lizenz CC BY-NC-ND genutzt werden. Das bedeutet, die Bilder dürfen mit Namensnennung des Erstellers frei verwendet, kopiert und weitergegeben, jedoch nicht verändert werden. Die kommerzielle Nutzung ist ohne Genehmigung untersagt.
 - Unangemessene, rechtswidrige oder beleidigende Bilder werden von den Moderatoren entfernt.
 - Nutzer verpflichten sich, nur Bilder hochzuladen, für die sie die notwendigen Rechte besitzen.
 
