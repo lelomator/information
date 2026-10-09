@@ -1,8 +1,8 @@
-## Allgemeine Geschäftsbedingungen (AGB) für den Discord-Server "Frobenius von Nebenan" Version 16.04.2026
+## Allgemeine Geschäftsbedingungen (AGB) für den Discord-Server "Frobenius von Nebenan" Version 09.10.2026
 
 ## 1. Geltungsbereich
 
-Diese Allgemeinen Geschäftsbedingungen (AGB) regeln die Nutzung des Discord-Servers Frobenius von Nebenan (im Folgenden „Server“ genannt). Mit der Teilnahme am Server akzeptieren alle Nutzer diese Bedingungen. Alle Namensnennungen erfolgen ohne Gewähr.
+Diese Allgemeinen Geschäftsbedingungen (AGB) regeln die Nutzung des Discord-Servers Frobenius von Nebenan (im Folgenden „Server“ genannt). Mit der Teilnahme am Server akzeptieren alle Nutzer diese Bedingungen.
 
 ## 2. Verbot von diskriminierenden und hasserfüllten Inhalten
 
@@ -13,7 +13,7 @@ Zuwiderhandlungen führen ohne Vorwarnung zu moderativen Maßnahmen.
 
 ## 3. Kennzeichnung von algorithmisch generierten Inhalten
 
-Inhalte wie Texte, Bilder oder Videos, die mithilfe eines Algorithmus erzeugt wurden, müssen als solche klar und eindeutig gekennzeichnet werden.
+Inhalte wie Texte, Bilder oder Videos, die mithilfe generativer KI erstellt wurden, müssen klar und eindeutig als solche gekennzeichnet werden.
 
 - Die Kennzeichnung muss gut sichtbar und nicht versteckt erfolgen.
 - Sofern möglich, ist der zur Erstellung verwendete Algorithmus oder das verwendete System anzugeben.
@@ -21,20 +21,20 @@ Inhalte wie Texte, Bilder oder Videos, die mithilfe eines Algorithmus erzeugt wu
 
 ## 4. Nutzung der Sprachkanäle
 
-Die Sprachkanäle, insbesondere Kanäle wie „Minecraft“, „Gaming 1“, „Gaming 2“ und ähnliche, sind ausschließlich für kurzfristige Absprachen und Besprechungen während des Spielens vorgesehen. Sprachkanäle sollten primär für das jeweilige, ihnen zugeordnete Thema genutzt werden.
+Die Sprachkanäle, insbesondere Kanäle wie „Minecraft“, „Gaming 1“, „Gaming 2“ und ähnliche, sind generell für den Austausch während des Spielens vorgesehen. Sprachkanäle sollten primär für das jeweilige, ihnen zugeordnete Thema genutzt werden.
 
-- Nachrichten in diesen Sprachkanälen werden nur temporär gespeichert und regelmäßig gelöscht.
+- Nachrichten im Textchat dieser Sprachkanäle können gelöscht werden.
 - Es besteht kein Anspruch auf dauerhafte Archivierung oder Wiederherstellung der Inhalte.
-- Nutzer verpflichten sich, diese Kanäle nur für den vorgesehenen Zweck zu nutzen.
+- Nutzer sollten diese Kanäle generell für den vorgesehenen Zweck nutzen.
 
-## 5. @everyone Erwähnungen
+## 5. @everyone-Erwähnungen
 
 - Die Verwendung von @everyone-Erwähnungen ist zwar allen Mitgliedern gestattet, aber in der Regel unerwünscht.
 - Missbräuchliche Nutzung oder Umgehungsversuche können zu Sanktionen führen.
 
 ## 6. Automatisierte Nachrichtenscans
 
-Warnung: Absatz 6 der AGB ist zum aktuellen Zeitpunkt außer Kraft gesetzt. Wir behalten uns dennoch vor, ihn jederzeit zu reaktivieren.
+Hinweis: Abschnitt 6 der AGB ist zum aktuellen Zeitpunkt außer Kraft gesetzt. Wir behalten uns dennoch vor, ihn jederzeit zu reaktivieren.
 
 - Alle Nachrichten auf dem Server können automatisch von einem KI-basierten System (OpenAI / GPT-OSS-20B) gescannt werden.
 - Ziel ist es, Spam, Beleidigungen, Hassrede oder anderweitig unangemessene Inhalte zu erkennen.
@@ -44,22 +44,30 @@ Warnung: Absatz 6 der AGB ist zum aktuellen Zeitpunkt außer Kraft gesetzt. Wir 
 
 ## 7. Einsatz von Bots
 
-Momentan gibt es einen aktiven Bot auf diesem Discord-Server. Wir behalten uns zudem vor, jederzeit weitere hinzuzufügen.
+Momentan gibt es zwei aktive Bots auf diesem Discord-Server. Wir behalten uns zudem vor, jederzeit weitere hinzuzufügen.
 
 ### 7.1 Frobenius Gymnasium Updates (BOT)
-Dieser Bot dient der automatisierten Veröffentlichung von Updates zum Vertretungsplan der Klasse 9b. Der Zugriff auf den entsprechenden Kanal erfolgt über die Rolle "@Vertretungsplan Updates", welche auf Anfrage durch die Moderatoren vergeben wird.
+Dieser Bot dient der automatisierten Veröffentlichung von Updates zum Vertretungsplan einer Klasse des FGH. Der Zugriff auf den entsprechenden Kanal erfolgt über die Rolle "@Vertretungsplan Updates", die auf Anfrage von den Moderatoren vergeben wird.
 
 Darüber hinaus stellt der Bot den Befehl "/vertretungsplan" zur Verfügung, mit dem der vollständige Vertretungsplan abgerufen werden kann.
 
 Es werden keine personenbezogenen Daten durch diesen Bot erhoben oder gespeichert.
 
+### 7.2 Mod Bot (BOT)
+Dieser Bot dient der automatisierten, abstimmungsbasierten Moderation von Sprachkanälen. Nutzer können mithilfe einer Abstimmung darüber entscheiden, ob ein Mitglied desselben Sprachkanals einen serverweiten Timeout von einer bis zehn Minuten erhalten soll.
+
+Die Nutzung erfolgt im Textchat des jeweiligen Sprachkanals über den Befehl `!timeout @Mitglied [Minuten]`. Dabei bezeichnet `@Mitglied` die Erwähnung des Mitglieds, das einen Timeout erhalten soll. `[Minuten]` steht für eine Zahl zwischen eins und zehn und legt die Dauer des Timeouts fest.
+Anschließend können alle Nutzer im betreffenden Sprachkanal über die Antwort des Bots abstimmen.
+
 ## 8. Bilderkanal #bilder
 
 Ein spezieller Kanal für Bilder wurde eingerichtet: #bilder. Hier können Nutzer interessante Bilder jeglicher Art teilen.
 
-- Alle Bilder in diesem Kanal können automatisch unter der Creative-Commons-Lizenz CC BY-NC-ND genutzt werden. Das bedeutet, die Bilder dürfen mit Namensnennung des Erstellers frei verwendet, kopiert und weitergegeben, jedoch nicht verändert werden. Die kommerzielle Nutzung ist ohne Genehmigung untersagt.
+- Mit dem Hochladen eines Bildes in diesen Kanal räumt der Nutzer anderen die Nutzungsrechte gemäß der [Creative-Commons-Lizenz CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de) ein. Voraussetzung ist, dass der Nutzer zur Erteilung dieser Rechte berechtigt ist.
+- Die Lizenz erlaubt die nichtkommerzielle Vervielfältigung und Weitergabe der Bilder unter Einhaltung ihrer Bedingungen. Dazu gehören insbesondere die erforderliche Namensnennung und die Angabe der Lizenz. Bearbeitete Fassungen dürfen unter dieser Lizenz nicht weitergegeben werden. Eine kommerzielle Nutzung erfordert eine gesonderte Erlaubnis des Rechteinhabers.
+- Die eingeräumte Lizenz ist bei Einhaltung ihrer Bedingungen nicht widerrufbar.
 - Unangemessene, rechtswidrige oder beleidigende Bilder werden von den Moderatoren entfernt.
-- Nutzer verpflichten sich, nur Bilder hochzuladen, für die sie die notwendigen Rechte besitzen.
+- Nutzer verpflichten sich, nur Bilder hochzuladen, für die sie sowohl die notwendigen Rechte zur Veröffentlichung als auch zur Erteilung dieser Lizenz besitzen.
 
 ## 9. Moderation und Sanktionen
 
@@ -67,7 +75,7 @@ Administratoren und Moderatoren dürfen die Regeln nach eigenem Ermessen auslege
 
 - Die Moderatoren behalten sich das Recht vor, Inhalte zu löschen, die gegen diese AGB oder die Discord-Nutzungsbedingungen verstoßen.
 - Bei Verstößen können Verwarnungen, temporäre Sperren oder dauerhafte Ausschlüsse erfolgen.
-- Entscheidungen der Moderation sind final, es besteht kein Anspruch auf Diskussion.
+- Entscheidungen der Moderation sind endgültig. Es besteht kein Anspruch auf Diskussion.
 
 ## 10. Haftungsausschluss
 
